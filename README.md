@@ -115,10 +115,3 @@ Future improvements may involve exploring additional features, experimenting wit
 
 ## License
 Project kama34.DeliveryTimePrediction is distributed under the MIT license.
-
-## Contact Information
-
-For inquiries or collaboration, contact the project authors:
-
-- [Author 1](mailto:author1@example.com)
-- [Author 2](mailto:author2@example.com)
