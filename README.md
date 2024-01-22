@@ -7,9 +7,9 @@
    <img src="https://img.shields.io/badge/NumPy-thistle" alt="NumPy">
    <img src="https://img.shields.io/badge/Matplotlib-lightcyan" alt="Matplotlib">
    <img src="https://img.shields.io/badge/ydata_profiling-lavender" alt="ydata_profiling">
-   <img src="https://img.shields.io/badge/Logistic_Regression-thistle" alt="LogisticRegression">
-   <img src="https://img.shields.io/badge/Random_Forest-lightcyan" alt="RandomForestClassifier">
-   <img src="https://img.shields.io/badge/Gradient_Boosting-lavender" alt="GradientBoostingClassifier">
+   <img src="https://img.shields.io/badge/TensorBoard-thistle" alt="TensorBoard">
+   <img src="https://img.shields.io/badge/MultitaskModel-lightcyan" alt="MultitaskModel">
+   <img src="https://img.shields.io/badge/Neural_networks-lavender" alt="Neural networks">
 </p>
 
 ## Introduction
