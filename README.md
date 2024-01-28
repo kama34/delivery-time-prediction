@@ -110,8 +110,8 @@ Future improvements may involve exploring additional features, experimenting wit
 
 - Kamyshnikov Dmitrii :
       - [GitHub](https://github.com/kama34)
-      - [Email](mailto:kamyshnikovdmitri@yandex.ru)
-      - [Telegram](https://t.me/+79101663108)
+      - [Email](mailto:d.kamyshnikov.offer@yandex.ru)
+      - [Telegram](https://t.me/kama_34)
 
 ## License
 Project kama34.DeliveryTimePrediction is distributed under the MIT license.
